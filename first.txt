@@ -1,1 +1,3 @@
 hello
+take the input from
+user
