@@ -4,3 +4,4 @@ user
 hi
 now this file is modified
 again modified after closing
+adding new feature
